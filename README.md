@@ -4,7 +4,7 @@
 
 ## A Little Bit About Me :sunglasses:
 
-I am a self-taught Frontend React Developer with a background in Computer Science. I specialized in creating accessible websites. I have worked on projects involving HTML, CSS, JavaScript, and React. I have also been working on projects involving Redux and NextJS. 
+I am a self-taught Frontend React Developer with a background in Computer Science. I specialized in creating accessible websites. I have worked on projects involving HTML, CSS, JavaScript, and React. I have also been working on projects involving Redux and NextJS. I have solved many [**Frontend Mentor**](https://www.frontendmentor.io/) challenges.
 
 My strength is my ability to create accessible websites. My focus is to continue working on expanding my skills and knowledge through real-world experience while working with cutting edge technologies.
 
