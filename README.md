@@ -40,7 +40,7 @@ I spend my free time playing Chess.
   </tr>
   <tr>
     <td><a target="_blank" href="https://faq-accordion-card-abhinavrai10.vercel.app/">FAQ accordion card</a></td>
-    <td>SASS/SCSS, REACT</td>
+    <td>SASS/SCSS, React</td>
   </tr>
   <tr>
     <td><a target="_blank" href="https://abhinavrai10.github.io/social-proof-section-master/">Social proof section</a></td>
@@ -48,7 +48,7 @@ I spend my free time playing Chess.
   </tr>
   <tr>
     <td><a target="_blank" href="https://abhinavrai10.github.io/interactive-rating-component-main/">Interactive rating component</a></td>
-    <td>REACT</td>
+    <td>React</td>
   </tr>
   <tr>
     <td><a target="_blank" href="https://abhinavrai10.github.io/product-card-component-main/">Product preview card component</a></td>
