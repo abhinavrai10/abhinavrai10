@@ -38,6 +38,10 @@ I spend my free time playing Chess.
     <th>Project</th>
     <th>Tech Used</th>
   </tr>
+   <tr>
+    <td><a target="_blank" href="https://abhinavrai10.github.io/food-order-app/">Food Order App</a></td>
+    <td>React, CSS, Context API, Fetch, Node, Firebase</td>
+  </tr>
   <tr>
     <td><a target="_blank" href="https://faq-accordion-card-abhinavrai10.vercel.app/">FAQ accordion card</a></td>
     <td>SASS/SCSS, React</td>
