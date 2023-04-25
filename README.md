@@ -4,22 +4,20 @@
 
 ## A Little Bit About Me :sunglasses:
 
-I am a self-taught Frontend React Developer with a background in Computer Science. I specialized in creating accessible websites. I have worked on projects involving HTML, CSS, JavaScript, and React. I have also been working on projects involving Redux and NextJS. I have solved many <a href="https://www.frontendmentor.io/" target="_blank">Frontend Mentor</a> challenges.
+I am a data-driven problem solver with a passion for leveraging data to drive business outcomes. I have spent some time developing my skills in business analytics, data manipulation, and data structures. My experience involves building compelling reports on top of structured data models using tools such as Microsoft Power BI and Excel, and I leveraged my skills in Python and SQL to manipulate and analyze data.
 
-My strength is my ability to create accessible websites. My focus is to continue working on expanding my skills and knowledge through real-world experience while working with cutting edge technologies.
+As I continue to grow my skills and expertise, I am eager to collaborate with others and contribute to meaningful projects in the field of data analytics. Whether it's developing new data models, creating innovative visualizations, or uncovering insights that drive business growth, I am committed to using my skills to make a positive impact.
 
-**I recommend looking through the pinned repositories which showcase my current skills.**
+**I recommend looking through the recent pinned repositories which showcase my current skills.**
 
 I spend my free time playing Chess.
 
 ## Technical Skills & Tools
 
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/html) - The building block of the web. No website can survive without this.
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/css) - The styling language for the web.
+- [Python](https://www.python.org/) - Python is a programming language that lets you work quickly and integrate systems more effectively..
+- [PowerBI](https://powerbi.microsoft.com/en-au/) - Power BI is an interactive data visualization software product.
+- [MySQL](https://www.mysql.com/) - MySQL is an open-source relational database management system.
 - [Git](https://git-scm.com/) - Track the history of my projects. It allows me to break things with no worries.
-- [Sass](https://sass-lang.com/) - CSS pre-processor. It helps me organize my stylesheets while still compiling them into a single CSS file.
-- [React](https://reactjs.org/) - A JavaScript library for building user interfaces.
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript) - Programming language for the web browsers.
 - [Powershell](https://learn.microsoft.com/en-us/powershell/) - I use this to work with Git and to install NPM packages.
 - [Visual Studio Code](https://code.visualstudio.com/) - Code editor. I love this tool. It has everything that I need to write code.
 
