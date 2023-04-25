@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Abhinav
 #### I Make Responsive UI's with Modern Best Practices 💻
-![I Make Responsive UI with Modern Best Practices](/images/capture.PNG)
+![I Make Responsive UI with Modern Best Practices](/images/Capture.PNG)
 
 ## A Little Bit About Me :sunglasses:
 
