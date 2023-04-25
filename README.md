@@ -18,7 +18,7 @@ I spend my free time playing Chess.
 - [PowerBI](https://powerbi.microsoft.com/en-au/) - Power BI is an interactive data visualization software product.
 - [MySQL](https://www.mysql.com/) - MySQL is an open-source relational database management system.
 - [Git](https://git-scm.com/) - Track the history of my projects. It allows me to break things with no worries.
-- [Powershell](https://learn.microsoft.com/en-us/powershell/) - I use this to work with Git and to install NPM packages.
+- [Powershell](https://learn.microsoft.com/en-us/powershell/) - I use this to work with Git and to install packages.
 - [Visual Studio Code](https://code.visualstudio.com/) - Code editor. I love this tool. It has everything that I need to write code.
 
 
