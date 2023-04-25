@@ -21,44 +21,6 @@ I spend my free time playing Chess.
 - [Powershell](https://learn.microsoft.com/en-us/powershell/) - I use this to work with Git and to install NPM packages.
 - [Visual Studio Code](https://code.visualstudio.com/) - Code editor. I love this tool. It has everything that I need to write code.
 
-<p align="left"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-## Few Projects and Challenges at a glance
-
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Tech Used</th>
-  </tr>
-   <tr>
-    <td><a target="_blank" href="https://abhinavrai10.github.io/food-order-app/">Food Order App</a></td>
-    <td>React, CSS, Context API, Fetch, Node, Firebase</td>
-  </tr>
-  <tr>
-    <td><a target="_blank" href="https://faq-accordion-card-abhinavrai10.vercel.app/">FAQ accordion card</a></td>
-    <td>SASS/SCSS, React</td>
-  </tr>
-  <tr>
-    <td><a target="_blank" href="https://abhinavrai10.github.io/social-proof-section-master/">Social proof section</a></td>
-    <td>HTML, CSS</td>
-  </tr>
-  <tr>
-    <td><a target="_blank" href="https://abhinavrai10.github.io/interactive-rating-component-main/">Interactive rating component</a></td>
-    <td>React</td>
-  </tr>
-  <tr>
-    <td><a target="_blank" href="https://abhinavrai10.github.io/product-card-component-main/">Product preview card component</a></td>
-    <td>HTML, SASS/SCSS</td>
-  </tr>
-</table>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinavrai10&show_icons=true&locale=en&layout=compact" alt="abhinavrai10" /></p>
 
 ## Connect with me 💬
 <div align="left">
