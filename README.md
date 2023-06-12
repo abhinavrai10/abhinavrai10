@@ -8,7 +8,7 @@ I am a data-driven problem solver with a passion for leveraging data to drive bu
 
 As I continue to grow my skills and expertise, I am eager to collaborate with others and contribute to meaningful projects in the field of data analytics. Whether it's creating innovative visualizations, or uncovering insights that drive business growth, I am committed to using my skills to make a positive impact.
 
-**I recommend looking through the recent pinned repositories which showcase my current skills.**
+**I recommend looking through the pinned repositories which showcase my skills.**
 
 I spend my free time playing Chess.
 
