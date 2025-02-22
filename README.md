@@ -4,9 +4,9 @@
 
 ## A Little Bit About Me :sunglasses:
 
-I am a data-driven problem solver with a passion for leveraging data to drive business outcomes. I have spent some time developing my skills in business analytics, data manipulation, and data structures. My experience involves building compelling reports on top of structured data models using tools such as Microsoft Power BI and Excel, and I leveraged my skills in Python and SQL to manipulate and analyze data.
+I am a data-driven problem solver with a passion for leveraging data to drive business success. I have spent my time developing my skills in data engineering, building robust pipelines, and transforming raw data into structured, actionable insights. My experience includes designing scalable ETL workflows with tools like Azure Databricks and PySpark, and I’ve used my expertise in Python and SQL to process, analyze, and optimize large datasets.
 
-As I continue to grow my skills and expertise, I am eager to collaborate with others and contribute to meaningful projects in the field of data analytics. Whether it's creating innovative visualizations, or uncovering insights that drive business growth, I am committed to using my skills to make a positive impact.
+As I continue to grow my skills and expertise, I am excited to team up with others and tackle meaningful data engineering projects. Whether it’s crafting efficient data pipelines, optimizing cloud-based architectures, or enabling analytics that drive business growth, I’m all in for making an impact with data.
 
 **I recommend looking through the pinned repositories which showcase my skills.**
 
@@ -19,7 +19,13 @@ I spend my free time playing Chess.
 - [MySQL](https://www.mysql.com/) - MySQL is an open-source relational database management system.
 - [Git](https://git-scm.com/) - Track the history of my projects. It allows me to break things with no worries.
 - [Powershell](https://learn.microsoft.com/en-us/powershell/) - I use this to work with Git and to install packages.
-- [Visual Studio Code](https://code.visualstudio.com/) - Code editor. I love this tool. It has everything that I need to write code.
+- [PySpark](https://spark.apache.org/docs/latest/api/python/) - A Python API for Apache Spark. I use it to process massive datasets and design scalable ETL workflows.
+- [Azure Databricks](https://azure.microsoft.com/en-us/products/databricks/) - A fast, easy, and collaborative Apache Spark-based analytics platform. I build and optimize data pipelines with PySpark here.
+
+- [Azure Data Factory](https://azure.microsoft.com/en-us/products/data-factory/) - A cloud-based data integration service. I use it to orchestrate and automate data movement and transformation.
+- [Microsoft SQL Server (SSMS)](https://learn.microsoft.com/en-us/ssms/sql-server-management-studio-ssms) - A suite for managing and querying SQL Server databases. I use it for T-SQL development and data analysis.
+- [Azure Synapse Analytics](https://azure.microsoft.com/en-us/products/synapse-analytics/) - An analytics service for data warehousing and big data processing. I use it for data modeling and warehousing solutions.
+- [ADLS Gen2](https://azure.microsoft.com/en-us/products/storage/data-lake-storage/) - Azure Data Lake Storage Gen2 provides scalable storage for big data. I use it to manage and organize data lakes efficiently.
 
 
 ## Connect with me 💬
