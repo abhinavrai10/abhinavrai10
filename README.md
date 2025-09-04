@@ -20,12 +20,11 @@ I spend my free time playing Chess.
 - [Git](https://git-scm.com/) - Track the history of my projects. It allows me to break things with no worries.
 - [Powershell](https://learn.microsoft.com/en-us/powershell/) - I use this to work with Git and to install packages.
 - [PySpark](https://spark.apache.org/docs/latest/api/python/) - A Python API for Apache Spark. I use it to process massive datasets and design scalable ETL workflows.
-- [Azure Databricks](https://azure.microsoft.com/en-us/products/databricks/) - A fast, easy, and collaborative Apache Spark-based analytics platform. I build and optimize data pipelines with PySpark here.
-
-- [Azure Data Factory](https://azure.microsoft.com/en-us/products/data-factory/) - A cloud-based data integration service. I use it to orchestrate and automate data movement and transformation.
-- [Microsoft SQL Server (SSMS)](https://learn.microsoft.com/en-us/ssms/sql-server-management-studio-ssms) - A suite for managing and querying SQL Server databases. I use it for T-SQL development and data analysis.
-- [Azure Synapse Analytics](https://azure.microsoft.com/en-us/products/synapse-analytics/) - An analytics service for data warehousing and big data processing. I use it for data modeling and warehousing solutions.
-- [ADLS Gen2](https://azure.microsoft.com/en-us/products/storage/data-lake-storage/) - Azure Data Lake Storage Gen2 provides scalable storage for big data. I use it to manage and organize data lakes efficiently.
+- [Azure Databricks](https://azure.microsoft.com/en-us/products/databricks/) - A fast, easy, and collaborative Spark-based analytics platform. I build data pipelines with PySpark here.
+- [Azure Data Factory](https://azure.microsoft.com/en-us/products/data-factory/) - A cloud-based data integration service. I use it to orchestrate and automate data movement.
+- [Microsoft SQL Server (SSMS)](https://learn.microsoft.com/en-us/ssms/sql-server-management-studio-ssms) - A suite for managing and querying SQL Server databases. I use it for T-SQL.
+- [Azure Synapse Analytics](https://azure.microsoft.com/en-us/products/synapse-analytics/) - An analytics service for data warehousing and big data processing. I use it for data modeling.
+- [ADLS Gen2](https://azure.microsoft.com/en-us/products/storage/data-lake-storage/) - Azure Data Lake Storage Gen2 provides scalable storage for big data. I use it to manage storage.
 
 
 ## Connect with me 💬
