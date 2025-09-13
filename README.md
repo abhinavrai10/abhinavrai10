@@ -29,7 +29,7 @@ I spend my free time playing Chess.
 
 ## Connect with me 💬
 <div align="left">
-<a href="https://twitter.com/abhinav_rai_10" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'></a>
+<a href="https://x.com/abhinav_rai_10" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'></a>
 <a href="https://www.linkedin.com/in/abhinav-rai-bi-data-engineer/" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>
 <a href="https://github.com/abhinavrai10" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>
 </div>
