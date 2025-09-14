@@ -4,7 +4,7 @@
 
 ## A Little Bit About Me :sunglasses:
 
-I am a data-driven problem solver with a passion for leveraging data to drive business success. I have spent my time developing my skills in data engineering, building robust pipelines, and transforming raw data into structured, actionable insights. My experience includes designing scalable ETL workflows with tools like Azure Databricks and PySpark, and I’ve used my expertise in Python and SQL to process, analyze, and optimize large datasets.
+I am a data-driven problem solver with a passion for leveraging data to drive business success. I have spent my time developing my skills in data engineering, building robust pipelines, and transforming raw data into structured, actionable insights. My experience includes leveraging Python and SQL to analyze and clean large datasets, creating actionable insights through Power BI dashboards and optimized data workflows.
 
 As I continue to grow my skills and expertise, I am excited to team up with others and tackle meaningful data engineering projects. Whether it’s crafting efficient data pipelines, optimizing cloud-based architectures, or enabling analytics that drive business growth, I’m all in for making an impact with data.
 
